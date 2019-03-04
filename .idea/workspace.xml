@@ -19,8 +19,8 @@
       <file leaf-file-name="web.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            <state relative-caret-position="390">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
                 <element signature="e#7#389#0#PHP" expanded="true" />
               </folding>
@@ -144,9 +144,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1041" />
-    <option name="y" value="431" />
-    <option name="width" value="1519" />
+    <option name="x" value="1102" />
+    <option name="y" value="23" />
+    <option name="width" value="1403" />
     <option name="height" value="1362" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -159,42 +159,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="462c0819:PsiDirectoryNode" />
+              <item name="docs-fr-bluerocktel-desk.bluerocktel.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs-fr-bluerocktel-desk.bluerocktel.com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="462c0819:PsiDirectoryNode" />
+              <item name="docs-fr-bluerocktel-desk.bluerocktel.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs-fr-bluerocktel-desk.bluerocktel.com" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="462c0819:PsiDirectoryNode" />
+              <item name="docs-fr-bluerocktel-desk.bluerocktel.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs-fr-bluerocktel-desk.bluerocktel.com" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="1.0" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docs-en-bluerocktel-billing.bluerocktel.com" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,15 +211,15 @@
       <option name="presentableId" value="Default" />
       <updated>1551630160895</updated>
       <workItem from="1551630162329" duration="880000" />
-      <workItem from="1551633967261" duration="1897000" />
+      <workItem from="1551633967261" duration="3033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2777000" />
+    <option name="totallyTimeSpent" value="3913000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1041" y="431" width="1519" height="1362" extended-state="0" />
+    <frame x="1102" y="23" width="1403" height="1362" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -253,7 +229,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19250551" />
       <window_info anchor="bottom" id="Statistic" order="7" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
@@ -340,15 +316,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/larecipe.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="151" column="38" selection-start-line="151" selection-start-column="38" selection-end-line="151" selection-end-column="38" />
+        <state relative-caret-position="-3779">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state relative-caret-position="390">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
             <element signature="e#7#389#0#PHP" expanded="true" />
           </folding>

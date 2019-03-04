@@ -13,6 +13,6 @@
 
 Route::get('/', function () {
 
-    return view('/docs');
+    return redirect('/docs');
 
 });
